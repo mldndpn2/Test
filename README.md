@@ -1,4 +1,4 @@
 Test
 ====
 
-First Repository in github
+First Repository in GitHub
